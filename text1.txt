@@ -1,10 +1,1 @@
- Volume in drive F has no label.
- Volume Serial Number is 0884-EDC8
-
- Directory of F:\MyGitProject
-
-02/22/2020  01:20 AM    <DIR>          .
-02/22/2020  01:20 AM    <DIR>          ..
-02/22/2020  01:20 AM                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  173,282,971,648 bytes free
+changed
